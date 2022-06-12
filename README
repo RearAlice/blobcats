@@ -1,0 +1,11 @@
+Hello, i collect the Blobcat SVGs i have made here. The license is public domain
+or whatever. I don't care.
+
+Generate WebP images:
+  ./generate_raster_images.zsh
+Generate PNG images:
+  ./generate_raster_images.zsh png
+Generate 400 pixel wide/high WebP images:
+  ./generate_raster_images.zsh webp 400
+
+You need zsh and imagemagick to run the script.
