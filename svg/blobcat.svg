@@ -9,7 +9,12 @@
    id="svg5"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1375">Blobcat</title>
   <defs
      id="defs2">
     <linearGradient
@@ -119,4 +124,37 @@
        d="M 78.272028,489.80595 C 77.911605,485.48761 186.32445,418.0828 191.36458,436.33812 196.4047,454.59349 78.632417,494.1243 78.272028,489.80595 Z"
        id="path5560" />
   </g>
+  <metadata
+     id="metadata1373">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Blobcat</dc:title>
+        <dc:date>2022-06-10</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>tastytea</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://schlomp.space/tastytea/blobcats/src/branch/main/svg/blobcat.svg</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blobcat</rdf:li>
+            <rdf:li>emoji</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
