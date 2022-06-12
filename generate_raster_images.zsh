@@ -20,5 +20,10 @@ mkdir -p ${ext}
 for svg in svg/*.svg; do
     local target=${svg##*/}
     target=${ext}/${target%.*}.${ext}
-    convert ${svg} -trim -resize ${size} -quality 100 -verbose ${target}
+    convert -verbose \
+            -background none \
+            -trim \
+            -resize ${size} \
+            -quality 100 \
+            ${svg} ${target}
 done
