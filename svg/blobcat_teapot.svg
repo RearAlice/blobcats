@@ -76,8 +76,7 @@
        y1="625.01587"
        x2="300.12128"
        y2="625.01587"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0)" />
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        xlink:href="#tea"
        id="linearGradient11337"
@@ -119,6 +118,15 @@
          offset="0"
          id="stop2482" />
     </linearGradient>
+    <linearGradient
+       xlink:href="#blob_body"
+       id="linearGradient1300"
+       x1="52.116776"
+       y1="749.55151"
+       x2="193.43794"
+       y2="749.55151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-1.70544)" />
   </defs>
   <path
      style="display:inline;fill:url(#blob_body);fill-opacity:1;stroke:none;stroke-width:0.879001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -204,6 +212,10 @@
      d="m 305.831,519.252 c 0,-63.33333 180,-63.33333 180,0 0,63.33333 -180,63.33333 -180,0 z"
      id="path1199" />
   <path
+     style="fill:url(#linearGradient1300);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 192.84125,735 c 0,0 -72.84125,46 -102.84125,64.29456 -28.459081,17.35488 -90,-1 -90,-1 L 164.73804,667.01145 Z"
+     id="path1294" />
+  <path
      style="fill:url(#linearGradient11201);fill-opacity:1;stroke:none;stroke-width:5.62731;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 305.831,519.252 c -1e-5,-6.33333 180,-6.33333 180,0 0,63.33333 -180,63.33333 -180,0 z"
      id="path11199" />
@@ -253,6 +265,6 @@
      id="path11236" />
   <path
      style="fill:url(#linearGradient14063);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 100,800 c 0,0 115,-230 115,-300 0,-15 -25,-15 -30,0 0,-15 -25,-15 -30,0 0,-15 -25,-15 -30,0 C 120.52786,513.41641 0,750 0,750 v 50 z"
+     d="m 100,790 c 0,0 105,-205 115,-285 0,-25 -25,-25 -30,-5 -5,-20 -25,-20 -30,0 -5,-20 -20,-20 -30,0 C 83.333333,583.33333 0,750 0,750 v 50 z"
      id="path13724" />
 </svg>
