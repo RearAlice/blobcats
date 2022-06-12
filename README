@@ -1,5 +1,8 @@
 Hello, i collect the Blobcat SVGs i have made here. The license is public domain
 or whatever. I don't care.
+  I used Inkscape to make them, so it's probably best to edit them with
+that. Use raster images for displaying, the SVGs get rendered differently
+everywhere because SVG. 🙄
 
 Generate WebP images:
   ./generate_raster_images.zsh
