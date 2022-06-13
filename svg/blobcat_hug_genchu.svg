@@ -29,13 +29,6 @@
          id="stop17094" />
     </linearGradient>
     <linearGradient
-       id="heart">
-      <stop
-         style="stop-color:#ff2050;stop-opacity:1;"
-         offset="0"
-         id="stop7049" />
-    </linearGradient>
-    <linearGradient
        id="blush">
       <stop
          style="stop-color:#ed6c30;stop-opacity:0.5;"
@@ -216,20 +209,20 @@
   <path
      style="display:inline;fill:url(#linearGradient5979);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 750,549.9998 c -70.04933,182.12826 -631.59001,177.86599 -700,0 -50,-130 90.64736,-340.22765 90,-340 0,0 -60,-120.000001 -30,-150.000001 30,-30 210,20 210,20 50,-20 110,-20 160,0 0,0 180,-50 210,-20 30,30 -30,150.000001 -30,150.000001 -0.40252,0.012 140,210 90,340 z"
-     id="path1267" />
+     id="blobcat_body" />
   <g
      id="layer5"
      style="display:inline">
     <ellipse
        style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
-       id="path4634"
+       id="blush_right"
        cx="610"
        cy="434.99979"
        rx="50"
        ry="60" />
     <ellipse
        style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5145)"
-       id="ellipse5139"
+       id="blush_left"
        cx="190"
        cy="434.99979"
        rx="50"
@@ -238,70 +231,71 @@
   <path
      style="fill:none;stroke:url(#linearGradient5190);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 320,449.9998 40,50 40,-50 40,50 40,-50"
-     id="path1015" />
+     id="mouth" />
   <g
-     id="layer3">
+     id="whiskers"
+     style="display:inline">
     <path
        style="fill:url(#linearGradient15760);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,484.9998 c 5,-5 -160,-60 -165,-35 -5,25 160,40 165,35 z"
-       id="path7804" />
+       id="whiskers_bottom_right" />
     <path
        style="fill:url(#linearGradient15762);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,339.9998 c -5,-5 -180,55 -165,80 15,25 170,-75 165,-80 z"
-       id="path5556" />
+       id="whiskers_top_right" />
     <path
        style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,484.9998 c -5,-5 160,-60 165,-35 5,25 -160,40 -165,35 z"
-       id="path15676" />
+       id="whiskers_bottom_left" />
     <path
        style="fill:url(#linearGradient26900);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,339.9998 c 5,-5 180,55 165,80 -15,25 -170,-75 -165,-80 z"
-       id="path15678" />
+       id="whiskers_top_left" />
   </g>
   <g
-     id="layer4"
+     id="eyes"
      style="display:inline">
     <ellipse
        style="display:inline;fill:url(#linearGradient7177);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
-       id="ellipse7175"
+       id="eye_right"
        cx="530"
        cy="324.99979"
        rx="45"
        ry="55" />
     <ellipse
        style="fill:url(#linearGradient7075);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
-       id="path7025"
+       id="eye_left"
        cx="270"
        cy="324.99979"
        rx="45"
        ry="55" />
     <g
-       id="layer2"
+       id="eyes_reflection"
        style="display:none">
       <ellipse
          style="opacity:1;fill:url(#linearGradient2717);fill-opacity:1;stroke:#ffffff;stroke-width:2.2899;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="ellipse2714"
+         id="eye_reflection_right_small"
          cy="343.99979"
          cx="557.5"
          rx="6.3550477"
          ry="7.8550501" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient1868);fill-opacity:1;stroke:#ffffff;stroke-width:4.5166;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="path1279"
+         id="eye_reflection_right_big"
          cy="312.49979"
          cx="520"
          rx="12.741699"
          ry="15.241702" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient2712);fill-opacity:1;stroke:#ffffff;stroke-width:2.2899;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="ellipse2710"
+         id="eye_reflection_left_small"
          cy="343.99979"
          cx="297.5"
          rx="6.3550477"
          ry="7.8550501" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient1285);fill-opacity:1;stroke:#ffffff;stroke-width:4.5166;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="ellipse1866"
+         id="eye_reflection_left_big"
          cy="312.49979"
          cx="260"
          rx="12.741699"
@@ -352,7 +346,7 @@
 	.st7{fill:#534779;}
 </style>
   <g
-     id="g69"
+     id="genchu"
      transform="matrix(8.7802651,3.1957551,-2.8682487,7.8804485,117.04035,124.06279)"
      style="display:inline">
     <path
@@ -481,11 +475,11 @@
     </g>
   </g>
   <g
-     id="layer6"
+     id="hands"
      transform="translate(0,-70.0002)">
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient4005);fill-opacity:1;stroke:none;stroke-width:6.18016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
-       id="rect3887"
+       id="right_hand_support"
        width="100"
        height="110.00004"
        x="510"
@@ -493,10 +487,10 @@
     <path
        style="fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 510,715.00022 c -45,-95 -45,-100 -45,-125 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 10,25 10,30 40,45"
-       id="path5425" />
+       id="right_hand" />
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient26217);fill-opacity:1;stroke:none;stroke-width:2.60208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
-       id="rect26213"
+       id="left_hand_support"
        width="30"
        height="65.000023"
        x="-190"
@@ -505,11 +499,11 @@
     <path
        style="display:inline;fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 175,690.0002 c 130,-30 130,-35 155,-45 25,-10 25,-30 0,-30 25,-10 25,-30 0,-30 25,-10 25,-30 0,-30 -25,0 -25,5 -135,25"
-       id="path26215" />
+       id="left_hand" />
   </g>
   <path
      class="st2"
      d="m 448.00754,728.2278 c -22.82869,-8.30896 -34.68783,-35.82879 -47.15572,-67.13995 -17.1975,-40.17212 -36.18616,-86.35081 -83.93907,-110.87097 -84.66513,-43.30976 -156.24206,-5.10591 -156.52889,-4.31786 -2.3297,0.93694 -5.2506,0.76625 -7.31103,-1.76856 -1.18241,-2.21524 -1.19996,-4.89895 1.41657,-6.62394 1.16485,-0.46847 19.78492,-10.64769 49.53251,-15.88438 27.41789,-4.29975 70.33587,-4.74281 118.08879,19.77735 50.97819,26.58651 71.74046,76.08806 88.93796,116.26018 13.93712,32.73836 23.71827,55.03966 41.2788,61.43117 3.51211,1.2783 7.31104,1.76856 12.27482,1.79034 4.96378,0.0218 9.62319,-1.85208 12.22216,-6.26078 11.00466,-13.84344 6.69073,-48.43389 1.31726,-66.4536 -0.89558,-3.00328 0.84292,-5.04784 4.05065,-5.66521 3.20773,-0.61736 5.55499,1.12941 6.45056,4.1327 5.37348,18.01971 11.17419,56.72106 -2.42945,74.9732 -5.2155,6.13367 -11.32658,9.26407 -20.37612,9.54007 -7.00666,0.1271 -12.56164,-1.00231 -17.8298,-2.91976 z"
-     id="path57-7"
+     id="genchu_tail"
      style="display:inline;fill:#54487a;stroke-width:8.85204" />
 </svg>

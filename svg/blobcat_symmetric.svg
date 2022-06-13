@@ -139,20 +139,20 @@
   <path
      style="display:inline;fill:url(#linearGradient5979);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 750,620 C 679.95067,802.12826 118.40999,797.86599 50,620 0,490 140.64736,279.77235 140,280 c 0,0 -60,-120 -30,-150 30,-30 210,20 210,20 50,-20 110,-20 160,0 0,0 180,-50 210,-20 30,30 -30,150 -30,150 -0.40252,0.012 140,210 90,340 z"
-     id="path1267" />
+     id="blobcat_body" />
   <g
      id="layer5"
      style="display:inline">
     <ellipse
        style="display:inline;opacity:0.5;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
-       id="path4634"
+       id="blush_right"
        cx="610"
        cy="505"
        rx="50"
        ry="60" />
     <ellipse
        style="display:inline;opacity:0.5;mix-blend-mode:normal;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5145)"
-       id="ellipse5139"
+       id="blush_left"
        cx="190"
        cy="505"
        rx="50"
@@ -161,39 +161,39 @@
   <path
      style="fill:none;stroke:url(#linearGradient5190);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 320,520 40,50 40,-50 40,50 40,-50"
-     id="path1015" />
+     id="mouth" />
   <g
-     id="layer3">
+     id="whiskers">
     <path
        style="fill:url(#linearGradient15760);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,555 c 5,-5 -160,-60 -165,-35 -5,25 160,40 165,35 z"
-       id="path7804" />
+       id="whisker_right_bottom" />
     <path
        style="fill:url(#linearGradient15762);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,410 c -5,-5 -180,55 -165,80 15,25 170,-75 165,-80 z"
-       id="path5556" />
+       id="whisker_right_top" />
     <path
        style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,555 c -5,-5 160,-60 165,-35 5,25 -160,40 -165,35 z"
-       id="path15676" />
+       id="whisker_left_bottom" />
     <path
        style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,410 c 5,-5 180,55 165,80 C 190,515 35,415 40,410 Z"
-       id="path15678" />
+       id="whisker_left_top" />
   </g>
   <g
-     id="layer4"
+     id="eyes"
      style="display:inline">
     <ellipse
        style="display:inline;fill:url(#linearGradient7177);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
-       id="ellipse7175"
+       id="eye_right"
        cx="530"
        cy="395"
        rx="45"
        ry="55" />
     <ellipse
        style="fill:url(#linearGradient7075);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
-       id="path7025"
+       id="eye_left"
        cx="270"
        cy="395"
        rx="45"

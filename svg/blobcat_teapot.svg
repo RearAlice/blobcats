@@ -151,14 +151,14 @@
   <path
      style="display:inline;fill:url(#linearGradient506);fill-opacity:1;stroke:none;stroke-width:0.879001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 780.15539,603.79677 C 804.69498,715.82834 649.32273,763.16906 419.69594,720.23506 -126.64483,654.10379 198.7552,285.41902 206.86834,261.76425 234.52156,181.13809 229.29676,71.765443 268.92149,43.610206 307.65013,16.091669 377.5309,140.73218 377.5309,140.73218 c 138.80785,-45.943017 280.9651,3.84434 346.79753,58.51658 9.3977,4.31516 109.46434,-55.08148 138.01453,-21.6818 27.6225,32.31441 -51.21637,132.56147 -43.01944,174.1733 25.95314,131.75148 -50.28772,201.29182 -39.16813,252.05651 z"
-     id="path2047" />
+     id="blobcat_body" />
   <g
-     id="layer1"
+     id="eyes"
      style="display:inline"
      transform="rotate(10,303.59619,823.50198)">
     <ellipse
        style="display:inline;fill:url(#linearGradient504);fill-opacity:1;stroke:none;stroke-width:1.21563;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="ellipse1396"
+       id="eye_right"
        cx="588.24109"
        cy="177.28984"
        rx="47.294041"
@@ -166,7 +166,7 @@
        transform="matrix(0.96362231,0.26726773,-0.26103537,0.96532924,0,0)" />
     <ellipse
        style="display:inline;fill:url(#linearGradient502);fill-opacity:1;stroke:none;stroke-width:1.18217;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="path1292"
+       id="eye_left"
        cx="344.33606"
        cy="152.35382"
        rx="46.064701"
@@ -174,24 +174,24 @@
        transform="matrix(0.89475589,0.4465556,-0.44378819,0.89613171,0,0)" />
   </g>
   <g
-     id="layer3"
+     id="whiskers"
      transform="rotate(10,753.10682,619.13869)">
     <path
        style="fill:url(#linearGradient5554);fill-opacity:1;stroke:none;stroke-width:1.0691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 677.65382,629.32529 c -3.34663,2.69209 -119.89224,-59.77382 -107.72766,-74.37632 12.16457,-14.6025 111.07431,71.68425 107.72766,74.37632 z"
-       id="path2624" />
+       id="whiskers_bottom_right" />
     <path
        style="fill:url(#linearGradient3200);fill-opacity:1;stroke:none;stroke-width:1.05651px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 705.04965,528.15074 c -2.09104,3.73665 -131.95589,-8.36304 -126.11437,-26.33101 5.84151,-17.96797 128.2054,22.59436 126.11437,26.33101 z"
-       id="path5472" />
+       id="whiskers_top_right" />
     <path
        style="fill:url(#linearGradient5562);fill-opacity:1;stroke:none;stroke-width:1.03761px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 120.58842,564.75788 c -0.36042,-4.31834 108.05242,-71.72315 113.09255,-53.46783 5.04012,18.25537 -112.73216,57.78618 -113.09255,53.46783 z"
-       id="path5560" />
+       id="whiskers_bottom_left" />
     <path
        style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.02228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 128.12968,466.95372 c 1.02854,-4.10435 122.9996,-26.07608 121.91756,-7.42739 -1.08206,18.64871 -122.94614,11.53173 -121.91756,7.42739 z"
-       id="path5556" />
+       id="whiskers_top_left" />
   </g>
   <metadata
      id="metadata1373">
@@ -240,9 +240,9 @@
   <path
      style="fill:url(#tea);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 331.59449,459.88784 c -2.09541,-10.17027 169.90905,-10.10545 174.90443,0.26679 0.34684,1.34605 0.69099,2.42003 0.83252,3.41734 1.44058,8.24055 -0.38392,16.23628 -5.24083,23.31966 -4.43995,7.48509 -22.14566,20.58111 -48.09573,21.11796 -2.47291,0.25089 -10.82862,0.78998 -19.31822,0.35633 -12.20211,-0.65444 -37.99274,-3.73705 -58.51887,-12.35541 -18.81869,-7.48291 -37.51907,-18.87213 -44.5633,-36.12267 z"
-     id="path4603" />
+     id="tea_in_mouth" />
   <g
-     id="g8060"
+     id="teapot"
      transform="matrix(20.709495,13.193404,-13.193404,20.709495,-55.068902,-342.16284)"
      style="display:inline">
     <path
@@ -285,9 +285,9 @@
   <path
      style="fill:url(#linearGradient11337);fill-opacity:1;stroke:none;stroke-width:1.76542px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 350.22673,439.29714 c 0.68578,9.80001 27.10087,22.88608 34.88777,21.81892 22.0253,-3.01845 67.1046,7.6615 30.8349,-14.74046 -25.1355,-15.52495 -66.60084,-19.62784 -65.72267,-7.07846 z"
-     id="path11236" />
+     id="tea_from_spout" />
   <path
      style="display:inline;fill:url(#linearGradient14063);fill-opacity:1;stroke:url(#linearGradient332);stroke-width:10.5758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 396.25762,704.83193 C 109.45038,638.57455 104.02462,635.07873 76.895983,617.59985 49.767249,600.12102 52.433602,576.07124 81.180701,589.43932 55.670456,567.84962 62.144098,551.40646 90.891235,564.77453 65.380952,543.18487 71.854602,526.74164 100.60167,540.10974 c 28.74705,13.3681 34.17281,16.86386 306.32126,68.52308"
-     id="path13724" />
+     id="hand" />
 </svg>

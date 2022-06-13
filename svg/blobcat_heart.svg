@@ -232,20 +232,20 @@
   <path
      style="display:inline;fill:url(#linearGradient5979);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 750,549.9998 c -70.04933,182.12826 -631.59001,177.86599 -700,0 -50,-130 90.64736,-340.22765 90,-340 0,0 -60,-120.000001 -30,-150.000001 30,-30 210,20 210,20 50,-20 110,-20 160,0 0,0 180,-50 210,-20 30,30 -30,150.000001 -30,150.000001 -0.40252,0.012 140,210 90,340 z"
-     id="path1267" />
+     id="blobcat_body" />
   <g
-     id="layer5"
+     id="layer_blush"
      style="display:inline">
     <ellipse
        style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
-       id="path4634"
+       id="blush_right"
        cx="610"
        cy="434.99979"
        rx="50"
        ry="60" />
     <ellipse
        style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5145)"
-       id="ellipse5139"
+       id="blush_left"
        cx="190"
        cy="434.99979"
        rx="50"
@@ -254,39 +254,39 @@
   <path
      style="fill:none;stroke:url(#linearGradient5190);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 320,449.9998 40,50 40,-50 40,50 40,-50"
-     id="path1015" />
+     id="mouth" />
   <g
-     id="layer3">
+     id="layer_whiskers">
     <path
        style="fill:url(#linearGradient15760);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,484.9998 c 5,-5 -160,-60 -165,-35 -5,25 160,40 165,35 z"
-       id="path7804" />
+       id="whisker_right_bottom" />
     <path
        style="fill:url(#linearGradient15762);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,339.9998 c -5,-5 -180,55 -165,80 15,25 170,-75 165,-80 z"
-       id="path5556" />
+       id="whisker_right_top" />
     <path
        style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,484.9998 c -5,-5 160,-60 165,-35 5,25 -160,40 -165,35 z"
-       id="path15676" />
+       id="whisker_left_bottom" />
     <path
        style="fill:url(#linearGradient26900);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,339.9998 c 5,-5 180,55 165,80 -15,25 -170,-75 -165,-80 z"
-       id="path15678" />
+       id="whisker_left_top" />
   </g>
   <g
-     id="layer4"
+     id="layer_eyes"
      style="display:inline">
     <ellipse
        style="display:inline;fill:url(#linearGradient7177);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
-       id="ellipse7175"
+       id="eye_right"
        cx="530"
        cy="324.99979"
        rx="45"
        ry="55" />
     <ellipse
        style="fill:url(#linearGradient7075);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
-       id="path7025"
+       id="eye_left"
        cx="270"
        cy="324.99979"
        rx="45"
@@ -296,28 +296,28 @@
        style="display:none">
       <ellipse
          style="opacity:1;fill:url(#linearGradient2717);fill-opacity:1;stroke:#ffffff;stroke-width:2.2899;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="ellipse2714"
+         id="reflection_small_right"
          cy="343.99979"
          cx="557.5"
          rx="6.3550477"
          ry="7.8550501" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient1868);fill-opacity:1;stroke:#ffffff;stroke-width:4.5166;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="path1279"
+         id="reflection_big_right"
          cy="312.49979"
          cx="520"
          rx="12.741699"
          ry="15.241702" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient2712);fill-opacity:1;stroke:#ffffff;stroke-width:2.2899;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="ellipse2710"
+         id="reflection_small_left"
          cy="343.99979"
          cx="297.5"
          rx="6.3550477"
          ry="7.8550501" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient1285);fill-opacity:1;stroke:#ffffff;stroke-width:4.5166;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
-         id="ellipse1866"
+         id="reflection_big_left"
          cy="312.49979"
          cx="260"
          rx="12.741699"
@@ -359,24 +359,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     id="layer_heart"
      style="display:inline"
      transform="translate(0,-70.0002)">
     <path
        style="fill:url(#linearGradient7053);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 400,820.0002 c 0,0 -300,-250 -225,-370.0002 75,-120.0002 225,20.0002 225,20.0002 0,0 150,-140.0004 225,-20.0002 75,120.0002 -225,370.0002 -225,370.0002 z"
-       id="path1941" />
+       id="heart_object" />
     <path
        style="opacity:0.5;fill:url(#linearGradient18310);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200,545.0002 c 20,-50 50,-90 100,-110 20,-20 -60,-35 -100,5 -40,40 -20,125 0,105 z"
-       id="path6990" />
+       id="heart_reflection" />
   </g>
   <g
-     id="layer6"
+     id="layer_hands"
      transform="translate(0,-70.0002)">
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient4005);fill-opacity:1;stroke:none;stroke-width:5.69783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
-       id="rect3887"
+       id="hand_support_right"
        width="85"
        height="110.00004"
        x="515"
@@ -384,10 +384,10 @@
     <path
        style="fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 515,705.0002 c -45,-95 -45,-100 -45,-125 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 10,25 10,30 40,45"
-       id="path5425" />
+       id="hand_right" />
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient26217);fill-opacity:1;stroke:none;stroke-width:5.69783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
-       id="rect26213"
+       id="hand_support_left"
        width="85"
        height="110.00002"
        x="-285"
@@ -396,6 +396,6 @@
     <path
        style="fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 285,705.0002 c 45,-95 45,-100 45,-125 0,-25 -20,-35 -30,-10 0,-25 -20,-35 -30,-10 0,-25 -20,-35 -30,-10 -10,25 -10,30 -40,45"
-       id="path26215" />
+       id="hand_left" />
   </g>
 </svg>
