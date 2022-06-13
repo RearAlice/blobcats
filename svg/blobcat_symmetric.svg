@@ -20,7 +20,7 @@
     <linearGradient
        id="blush">
       <stop
-         style="stop-color:#ed6c30;stop-opacity:0.5;"
+         style="stop-color:#ed6c30;stop-opacity:1;"
          offset="0"
          id="stop4680" />
     </linearGradient>
@@ -144,14 +144,14 @@
      id="layer5"
      style="display:inline">
     <ellipse
-       style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
+       style="display:inline;opacity:0.5;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
        id="path4634"
        cx="610"
        cy="505"
        rx="50"
        ry="60" />
     <ellipse
-       style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5145)"
+       style="display:inline;opacity:0.5;mix-blend-mode:normal;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5145)"
        id="ellipse5139"
        cx="190"
        cy="505"
