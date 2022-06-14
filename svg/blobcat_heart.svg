@@ -7,18 +7,38 @@
    viewBox="0 0 800.0 800.0"
    version="1.1"
    id="SVGRoot"
+   sodipodi:docname="blobcat_heart.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview529"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:current-layer="SVGRoot">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1138" />
+  </sodipodi:namedview>
   <title
      id="title1016">Blobcat with heart in paws</title>
   <defs
      id="defs1121">
     <linearGradient
-       id="light">
+       id="light"
+       inkscape:swatch="gradient">
       <stop
          style="stop-color:#ffffff;stop-opacity:0"
          offset="0"
@@ -29,14 +49,16 @@
          id="stop17094" />
     </linearGradient>
     <linearGradient
-       id="heart">
+       id="heart"
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ff2050;stop-opacity:1;"
          offset="0"
          id="stop7049" />
     </linearGradient>
     <linearGradient
-       id="blush">
+       id="blush"
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#ed6c30;stop-opacity:0.5;"
          offset="0"
@@ -44,6 +66,7 @@
     </linearGradient>
     <linearGradient
        id="face"
+       inkscape:swatch="solid"
        gradientTransform="matrix(0.86419753,0,0,1,63.82716,0)">
       <stop
          style="stop-color:#2b2b00;stop-opacity:1;"
@@ -51,13 +74,15 @@
          id="stop7071" />
     </linearGradient>
     <linearGradient
-       id="body">
+       id="body"
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#fcc314;stop-opacity:1;"
          offset="0"
          id="stop5975" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#body"
        id="linearGradient5979"
        x1="38.738472"
@@ -67,6 +92,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-70.0002)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient7075"
        x1="345.4498"
@@ -76,6 +102,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.69230773,0,0,1.375,17.307671,201.2498)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient7177"
        gradientUnits="userSpaceOnUse"
@@ -85,6 +112,7 @@
        x2="430"
        y2="91.322893" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient5558"
        gradientUnits="userSpaceOnUse"
@@ -94,6 +122,7 @@
        x2="660.23444"
        y2="437.90143" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient15760"
        gradientUnits="userSpaceOnUse"
@@ -103,6 +132,7 @@
        x2="660.23444"
        y2="437.90143" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient15762"
        gradientUnits="userSpaceOnUse"
@@ -112,6 +142,7 @@
        x2="660.23444"
        y2="437.90143" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#blush"
        id="linearGradient4684"
        x1="562.35876"
@@ -121,6 +152,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1627907,0,0,1.0619469,-93.905576,-112.03455)" />
     <filter
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5097"
        x="-0.33"
@@ -128,10 +160,12 @@
        width="1.66"
        height="1.55">
       <feGaussianBlur
+         inkscape:collect="always"
          stdDeviation="13.75"
          id="feGaussianBlur5099" />
     </filter>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#blush"
        id="linearGradient5143"
        gradientUnits="userSpaceOnUse"
@@ -141,6 +175,7 @@
        x2="648.35876"
        y2="515.12402" />
     <filter
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5145"
        x="-0.33"
@@ -148,15 +183,18 @@
        width="1.66"
        height="1.55">
       <feGaussianBlur
+         inkscape:collect="always"
          stdDeviation="13.75"
          id="feGaussianBlur5147" />
     </filter>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient5190"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-70.0002)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#heart"
        id="linearGradient7053"
        x1="182.67766"
@@ -165,6 +203,7 @@
        y2="579.57064"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#light"
        id="linearGradient18310"
        gradientUnits="userSpaceOnUse"
@@ -174,6 +213,7 @@
        y2="436.90619"
        gradientTransform="translate(-27.500114,-1.9059892)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#light"
        id="linearGradient1285"
        x1="429.62396"
@@ -183,6 +223,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.14990233,0,0,0.21773855,220.27587,275.48419)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#light"
        id="linearGradient1868"
        gradientUnits="userSpaceOnUse"
@@ -192,6 +233,7 @@
        x2="297.92487"
        y2="197.11472" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#light"
        id="linearGradient2712"
        gradientUnits="userSpaceOnUse"
@@ -201,6 +243,7 @@
        x2="297.92487"
        y2="197.11472" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#light"
        id="linearGradient2717"
        gradientUnits="userSpaceOnUse"
@@ -210,16 +253,19 @@
        x2="297.92487"
        y2="197.11472" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#body"
        id="linearGradient4005"
        gradientTransform="matrix(1.0493826,0,0,1.3750004,21.790137,-243.75005)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#body"
        id="linearGradient26217"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0493826,0,0,1.3750002,-778.20986,-243.74992)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#face"
        id="linearGradient26900"
        gradientUnits="userSpaceOnUse"
@@ -232,15 +278,21 @@
   <path
      style="display:inline;fill:url(#linearGradient5979);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 750,549.9998 c -70.04933,182.12826 -631.59001,177.86599 -700,0 -50,-130 90.64736,-340.22765 90,-340 0,0 -60,-120.000001 -30,-150.000001 30,-30 210,20 210,20 50,-20 110,-20 160,0 0,0 180,-50 210,-20 30,30 -30,150.000001 -30,150.000001 -0.40252,0.012 140,210 90,340 z"
-     id="blobcat_body" />
+     id="blobcat_body"
+     sodipodi:nodetypes="sscsccscs"
+     inkscape:label="body"
+     sodipodi:insensitive="true" />
   <g
      id="layer_blush"
-     style="display:inline">
+     inkscape:label="blush"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <ellipse
        style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
        id="blush_right"
        cx="610"
        cy="434.99979"
+       inkscape:label="blush right"
        rx="50"
        ry="60" />
     <ellipse
@@ -248,51 +300,71 @@
        id="blush_left"
        cx="190"
        cy="434.99979"
+       inkscape:label="blush left"
        rx="50"
        ry="60" />
   </g>
   <path
      style="fill:none;stroke:url(#linearGradient5190);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 320,449.9998 40,50 40,-50 40,50 40,-50"
-     id="mouth" />
+     id="mouth"
+     inkscape:label="mouth"
+     sodipodi:nodetypes="ccccc"
+     sodipodi:insensitive="true" />
   <g
-     id="layer_whiskers">
+     id="layer_whiskers"
+     inkscape:label="whiskers"
+     sodipodi:insensitive="true">
     <path
        style="fill:url(#linearGradient15760);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,484.9998 c 5,-5 -160,-60 -165,-35 -5,25 160,40 165,35 z"
-       id="whisker_right_bottom" />
+       id="whisker_right_bottom"
+       sodipodi:nodetypes="zzz"
+       inkscape:label="whisker right bottom" />
     <path
        style="fill:url(#linearGradient15762);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 760,339.9998 c -5,-5 -180,55 -165,80 15,25 170,-75 165,-80 z"
-       id="whisker_right_top" />
+       id="whisker_right_top"
+       sodipodi:nodetypes="zzz"
+       inkscape:label="whisker right top" />
     <path
        style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,484.9998 c -5,-5 160,-60 165,-35 5,25 -160,40 -165,35 z"
-       id="whisker_left_bottom" />
+       id="whisker_left_bottom"
+       sodipodi:nodetypes="zzz"
+       inkscape:label="whisker left bottom" />
     <path
        style="fill:url(#linearGradient26900);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40,339.9998 c 5,-5 180,55 165,80 -15,25 -170,-75 -165,-80 z"
-       id="whisker_left_top" />
+       id="whisker_left_top"
+       sodipodi:nodetypes="zzz"
+       inkscape:label="whisker left top" />
   </g>
   <g
      id="layer_eyes"
-     style="display:inline">
+     inkscape:label="eyes"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <ellipse
        style="display:inline;fill:url(#linearGradient7177);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
        id="eye_right"
        cx="530"
        cy="324.99979"
        rx="45"
-       ry="55" />
+       ry="55"
+       inkscape:label="eye right" />
     <ellipse
        style="fill:url(#linearGradient7075);fill-opacity:1;stroke:none;stroke-width:29.2699;stroke-linecap:round;stroke-linejoin:round"
        id="eye_left"
        cx="270"
        cy="324.99979"
        rx="45"
-       ry="55" />
+       ry="55"
+       inkscape:label="eye left" />
     <g
+       inkscape:groupmode="layer"
        id="layer2"
+       inkscape:label="reflection"
        style="display:none">
       <ellipse
          style="opacity:1;fill:url(#linearGradient2717);fill-opacity:1;stroke:#ffffff;stroke-width:2.2899;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
@@ -300,28 +372,32 @@
          cy="343.99979"
          cx="557.5"
          rx="6.3550477"
-         ry="7.8550501" />
+         ry="7.8550501"
+         inkscape:label="small right" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient1868);fill-opacity:1;stroke:#ffffff;stroke-width:4.5166;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
          id="reflection_big_right"
          cy="312.49979"
          cx="520"
          rx="12.741699"
-         ry="15.241702" />
+         ry="15.241702"
+         inkscape:label="big right" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient2712);fill-opacity:1;stroke:#ffffff;stroke-width:2.2899;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
          id="reflection_small_left"
          cy="343.99979"
          cx="297.5"
          rx="6.3550477"
-         ry="7.8550501" />
+         ry="7.8550501"
+         inkscape:label="small left" />
       <ellipse
          style="opacity:1;fill:url(#linearGradient1285);fill-opacity:1;stroke:#ffffff;stroke-width:4.5166;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0"
          id="reflection_big_left"
          cy="312.49979"
          cx="260"
          rx="12.741699"
-         ry="15.241702" />
+         ry="15.241702"
+         inkscape:label="big left" />
     </g>
   </g>
   <metadata
@@ -360,31 +436,42 @@
   </metadata>
   <g
      id="layer_heart"
+     inkscape:label="heart"
      style="display:inline"
-     transform="translate(0,-70.0002)">
+     transform="translate(0,-70.0002)"
+     sodipodi:insensitive="true">
     <path
        style="fill:url(#linearGradient7053);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 400,820.0002 c 0,0 -300,-250 -225,-370.0002 75,-120.0002 225,20.0002 225,20.0002 0,0 150,-140.0004 225,-20.0002 75,120.0002 -225,370.0002 -225,370.0002 z"
-       id="heart_object" />
+       id="heart_object"
+       sodipodi:nodetypes="czczc"
+       inkscape:label="heart" />
     <path
        style="opacity:0.5;fill:url(#linearGradient18310);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200,545.0002 c 20,-50 50,-90 100,-110 20,-20 -60,-35 -100,5 -40,40 -20,125 0,105 z"
-       id="heart_reflection" />
+       id="heart_reflection"
+       sodipodi:nodetypes="cczc"
+       inkscape:label="reflection" />
   </g>
   <g
      id="layer_hands"
-     transform="translate(0,-70.0002)">
+     inkscape:label="hands"
+     transform="translate(0,-70.0002)"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient4005);fill-opacity:1;stroke:none;stroke-width:5.69783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
        id="hand_support_right"
        width="85"
        height="110.00004"
        x="515"
-       y="595.00018" />
+       y="595.00018"
+       inkscape:label="support right" />
     <path
        style="fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 515,705.0002 c -45,-95 -45,-100 -45,-125 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 10,25 10,30 40,45"
-       id="hand_right" />
+       id="hand_right"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="right" />
     <rect
        style="display:inline;opacity:1;fill:url(#linearGradient26217);fill-opacity:1;stroke:none;stroke-width:5.69783;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
        id="hand_support_left"
@@ -392,10 +479,13 @@
        height="110.00002"
        x="-285"
        y="595.00018"
+       inkscape:label="support left"
        transform="scale(-1,1)" />
     <path
        style="fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 285,705.0002 c 45,-95 45,-100 45,-125 0,-25 -20,-35 -30,-10 0,-25 -20,-35 -30,-10 0,-25 -20,-35 -30,-10 -10,25 -10,30 -40,45"
-       id="hand_left" />
+       id="hand_left"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="left" />
   </g>
 </svg>
