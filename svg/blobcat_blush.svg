@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800.0px"
+   height="800.0px"
+   viewBox="0 0 800.0 800.0"
+   version="1.1"
+   id="SVGRoot"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1016">Blushing Blobcat</title>
+  <defs
+     id="defs1121">
+    <linearGradient
+       id="blush">
+      <stop
+         style="stop-color:#ed6c30;stop-opacity:1;"
+         offset="0"
+         id="stop4680" />
+    </linearGradient>
+    <linearGradient
+       id="face"
+       gradientTransform="matrix(-1,0,0,1,860,-20)">
+      <stop
+         style="stop-color:#2b2b00;stop-opacity:1;"
+         offset="0"
+         id="stop7071" />
+    </linearGradient>
+    <linearGradient
+       id="body">
+      <stop
+         style="stop-color:#fcc314;stop-opacity:1;"
+         offset="0"
+         id="stop5975" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#body"
+       id="linearGradient5979"
+       x1="38.738472"
+       y1="437.70772"
+       x2="761.27481"
+       y2="437.70772"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#face"
+       id="linearGradient5558"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3827831,-0.35029425,0.38353716,-1.5700333,779.50946,1346.311)"
+       x1="539.43036"
+       y1="437.90143"
+       x2="660.23444"
+       y2="437.90143" />
+    <linearGradient
+       xlink:href="#face"
+       id="linearGradient15760"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3827831,-0.35029425,0.38353716,-1.5700333,1239.6278,1346.311)"
+       x1="539.43036"
+       y1="437.90143"
+       x2="660.23444"
+       y2="437.90143" />
+    <linearGradient
+       xlink:href="#face"
+       id="linearGradient15762"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3827831,-0.35029425,0.38353716,-1.5700333,1239.6278,1346.311)"
+       x1="539.43036"
+       y1="437.90143"
+       x2="660.23444"
+       y2="437.90143" />
+    <linearGradient
+       xlink:href="#blush"
+       id="linearGradient4684"
+       x1="562.35876"
+       y1="515.12402"
+       x2="648.35876"
+       y2="515.12402"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1627907,0,0,1.0619469,-93.905576,-42.034346)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5097"
+       x="-0.33"
+       y="-0.275"
+       width="1.66"
+       height="1.55">
+      <feGaussianBlur
+         stdDeviation="13.75"
+         id="feGaussianBlur5099" />
+    </filter>
+    <linearGradient
+       xlink:href="#blush"
+       id="linearGradient5143"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1627907,0,0,1.0619469,-513.90558,-42.034346)"
+       x1="562.35876"
+       y1="515.12402"
+       x2="648.35876"
+       y2="515.12402" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5145"
+       x="-0.33"
+       y="-0.275"
+       width="1.66"
+       height="1.55">
+      <feGaussianBlur
+         stdDeviation="13.75"
+         id="feGaussianBlur5147" />
+    </filter>
+    <linearGradient
+       xlink:href="#face"
+       id="linearGradient5190"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12257">
+      <path
+         style="display:inline;fill:url(#linearGradient12261);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 750,620 C 679.95067,802.12826 118.40999,797.86599 50,620 0,490 140.64736,279.77235 140,280 c 0,0 -60,-120 -30,-150 30,-30 210,20 210,20 50,-20 110,-20 160,0 0,0 180,-50 210,-20 30,30 -30,150 -30,150 -0.40252,0.012 140,210 90,340 z"
+         id="path12259"
+         class="UnoptimicedTransforms" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#body"
+       id="linearGradient12261"
+       gradientUnits="userSpaceOnUse"
+       x1="38.738472"
+       y1="437.70772"
+       x2="761.27481"
+       y2="437.70772" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter8336"
+       x="-0.13079235"
+       y="-0.36088579"
+       width="1.2615847"
+       height="1.7217716">
+      <feGaussianBlur
+         stdDeviation="33.650403"
+         id="feGaussianBlur8338" />
+    </filter>
+  </defs>
+  <path
+     style="display:inline;fill:url(#linearGradient5979);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 750,620 C 679.95067,802.12826 118.40999,797.86599 50,620 0,490 140.64736,279.77235 140,280 c 0,0 -60,-120 -30,-150 30,-30 210,20 210,20 50,-20 110,-20 160,0 0,0 180,-50 210,-20 30,30 -30,150 -30,150 -0.40252,0.012 140,210 90,340 z"
+     id="blobcat_body"
+     class="UnoptimicedTransforms" />
+  <g
+     id="blush_layer"
+     style="display:inline">
+    <ellipse
+       style="display:none;opacity:0.5;mix-blend-mode:normal;fill:url(#linearGradient4684);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5097)"
+       id="blush_right"
+       cx="610"
+       cy="505"
+       rx="50"
+       ry="60" />
+    <ellipse
+       style="display:none;opacity:0.5;mix-blend-mode:normal;fill:url(#linearGradient5143);fill-opacity:1;stroke:none;stroke-width:27.7805;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5145)"
+       id="blush_left"
+       cx="190"
+       cy="505"
+       rx="50"
+       ry="60" />
+    <path
+       style="display:inline;opacity:1;mix-blend-mode:normal;fill:url(#blush);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter8336)"
+       d="m 100,400 c -57.166196,34.29972 -10.038686,166.5698 50,200 76.44451,42.56515 159.48351,-76.81187 250,-80 90.59022,-4.38744 179.32899,131.58647 250,80 53.84702,-39.30576 57.16619,-165.70028 0,-200 -46.21915,-27.73149 -166.60049,9.72237 -250,10 -100.05499,0.33307 -246.21915,-42.26851 -300,-10 z"
+       id="blush_full_face"
+       class="UnoptimicedTransforms"
+       clip-path="url(#clipPath12257)" />
+  </g>
+  <path
+     style="fill:none;stroke:url(#linearGradient5190);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 320,520 40,50 40,-50 40,50 40,-50"
+     id="mouth" />
+  <g
+     id="whiskers">
+    <path
+       style="fill:url(#linearGradient15760);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 760,555 c 5,-5 -160,-60 -165,-35 -5,25 160,40 165,35 z"
+       id="whisker_right_bottom" />
+    <path
+       style="fill:url(#linearGradient15762);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 760,410 c -5,-5 -180,55 -165,80 15,25 170,-75 165,-80 z"
+       id="whisker_right_top" />
+    <path
+       style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.51834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40,555 c -5,-5 160,-60 165,-35 5,25 -160,40 -165,35 z"
+       id="whisker_left_bottom" />
+    <path
+       style="fill:url(#linearGradient5558);fill-opacity:1;stroke:none;stroke-width:1.518;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="m 40,410 c 5,-5 180,55 165,80 C 190,515 35,415 40,410 Z"
+       id="whisker_left_top" />
+  </g>
+  <g
+     id="eyes"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#face);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 570,410 c -50,-10 -100,0 -100,0 0,0 47.17157,-37.77817 100,-50"
+       id="eye_right" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#face);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 230,410 c 50,-10 100,0 100,0 0,0 -47.17157,-37.77817 -100,-50"
+       id="eye_left" />
+  </g>
+  <metadata
+     id="metadata1014">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Blushing Blobcat</dc:title>
+        <dc:date>2022-06-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>tastytea</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://schlomp.space/tastytea/blobcats/src/branch/main/svg/blobcat_blush.svg</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blobcat</rdf:li>
+            <rdf:li>emoji</rdf:li>
+            <rdf:li>blush</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
