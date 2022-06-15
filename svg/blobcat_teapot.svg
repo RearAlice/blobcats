@@ -26,11 +26,17 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     showgrid="true"
+     showgrid="false"
      inkscape:current-layer="svg5">
     <inkscape:grid
        type="xygrid"
-       id="grid172" />
+       id="grid172"
+       spacingx="5"
+       spacingy="5"
+       empcolor="#ff3f3f"
+       empopacity="0.50196078"
+       color="#3f3fff"
+       opacity="0.25098039" />
   </sodipodi:namedview>
   <title
      id="title1375">Blobcat drinks directly from teapot</title>
@@ -333,10 +339,18 @@
      id="tea_from_spout"
      inkscape:label="tea from spout" />
   <path
-     style="display:inline;fill:url(#linearGradient14063);fill-opacity:1;stroke:url(#linearGradient332);stroke-width:10.5758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="display:none;fill:url(#linearGradient14063);fill-opacity:1;stroke:url(#linearGradient332);stroke-width:10.5758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 396.25762,704.83193 C 109.45038,638.57455 104.02462,635.07873 76.895983,617.59985 49.767249,600.12102 52.433602,576.07124 81.180701,589.43932 55.670456,567.84962 62.144098,551.40646 90.891235,564.77453 65.380952,543.18487 71.854602,526.74164 100.60167,540.10974 c 28.74705,13.3681 34.17281,16.86386 306.32126,68.52308"
      id="hand"
      inkscape:transform-center-x="1.6434477"
      inkscape:transform-center-y="-6.6846726"
-     inkscape:label="hand" />
+     inkscape:label="hand with fingers" />
+  <path
+     style="display:inline;fill:url(#linearGradient14063);fill-opacity:1;stroke:url(#face);stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 375,700 C 375,700 250,675 150,600 25,525 50,375 150,425 c 50,25 100,75 375,150"
+     id="path276"
+     inkscape:transform-center-x="1.6434477"
+     inkscape:transform-center-y="-6.6846726"
+     inkscape:label="hand"
+     sodipodi:nodetypes="ccsc" />
 </svg>
