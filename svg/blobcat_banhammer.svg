@@ -27,7 +27,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:current-layer="SVGRoot"><inkscape:grid
+     inkscape:current-layer="layer1"><inkscape:grid
        type="xygrid"
        id="grid1008"
        spacingx="5"
@@ -52,7 +52,7 @@
          id="stop14689" /></linearGradient><linearGradient
        id="shaft_colour"
        inkscape:swatch="solid"><stop
-         style="stop-color:#b0c4de;stop-opacity:1;"
+         style="stop-color:#d0d4fe;stop-opacity:1;"
          offset="0"
          id="stop13975" /></linearGradient><linearGradient
        inkscape:collect="always"
@@ -280,10 +280,9 @@
      id="layer1"
      inkscape:label="hammer"
      style="display:inline;stroke-width:1.09373"
-     transform="matrix(0.91429913,0,0,0.91429913,-62.012208,122.42428)"
-     sodipodi:insensitive="true"><path
+     transform="matrix(0.91429913,0,0,0.91429913,-62.012208,122.42428)"><path
        style="display:inline;fill:url(#linearGradient13979);fill-opacity:1;stroke:none;stroke-width:1.09373px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 600,365 5,-5 60,60 -5,5 -10,-10 -240,240 -40,-40 240,-240 z"
+       d="M 587.34848,363.74936 605,360 665,420 658.44119,434.84206 642.97252,419.37339 410,655 370,615 603.75449,380.15537 Z"
        id="path13587"
        sodipodi:nodetypes="ccccccccc"
        inkscape:label="shaft" /><path
