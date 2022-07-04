@@ -4,5 +4,6 @@ skin: fcc314ff
 contours: 2b2b00ff
 inner mouth, blush¹: ed6c30ff
 tea: 503200ff
+symbols, text: 66ccccff
 
 ¹ blush is usually 25% fuzzy and the opacity ranges from 50% - 100%
