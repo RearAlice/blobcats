@@ -206,16 +206,6 @@
        x2="297.92487"
        y2="197.11472" />
     <linearGradient
-       xlink:href="#body"
-       id="linearGradient4005"
-       gradientTransform="matrix(1.2345677,0,0,1.3750004,-70.2469,-233.75003)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#body"
-       id="linearGradient26217"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.37037033,0,0,0.81250021,-364.07406,129.37512)" />
-    <linearGradient
        xlink:href="#face"
        id="linearGradient26900"
        gradientUnits="userSpaceOnUse"
@@ -224,6 +214,26 @@
        y1="437.90143"
        x2="660.23444"
        y2="437.90143" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#body"
+       id="linearGradient667"
+       gradientTransform="matrix(-1.208675,0,0,0.82735223,785,0)"
+       x1="140.64988"
+       y1="682.90039"
+       x2="297.77889"
+       y2="682.90039"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#face"
+       id="linearGradient669"
+       gradientTransform="matrix(-1.208675,0,0,0.82735223,785,0)"
+       x1="140.64988"
+       y1="682.90039"
+       x2="297.77889"
+       y2="682.90039"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      style="display:inline;fill:url(#linearGradient5979);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -389,7 +399,7 @@
 </style>
   <g
      id="genchu"
-     transform="matrix(8.7802651,3.1957551,-2.8682487,7.8804485,117.04035,124.06279)"
+     transform="matrix(9.2018102,1.6225274,-1.456248,8.2587929,26.960266,227.03781)"
      style="display:inline"
      inkscape:label="genchu">
     <path
@@ -520,37 +530,22 @@
   <g
      id="hands"
      transform="translate(0,-70.0002)">
-    <rect
-       style="display:inline;opacity:1;fill:url(#linearGradient4005);fill-opacity:1;stroke:none;stroke-width:6.18016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
-       id="right_hand_support"
-       width="100"
-       height="110.00004"
-       x="510"
-       y="605.00018"
-       inkscape:label="right hand support" />
     <path
-       style="fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 510,715.00022 c -45,-95 -45,-100 -45,-125 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 0,-25 20,-35 30,-10 10,25 10,30 40,45"
-       id="right_hand"
-       inkscape:label="right hand" />
-    <rect
-       style="display:inline;opacity:1;fill:url(#linearGradient26217);fill-opacity:1;stroke:none;stroke-width:2.60208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
-       id="left_hand_support"
-       width="30"
-       height="65.000023"
-       x="-190"
-       y="625.00018"
-       transform="scale(-1,1)"
-       inkscape:label="left hand support" />
+       style="display:inline;fill:url(#linearGradient667);stroke:url(#linearGradient669);stroke-width:12.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 610,690.0002 c -108.57152,6.07589 -115,5 -140,-5 -68.74127,-32.23964 -35.24838,-90.27689 0,-90 25,0 40,0 120,-15"
+       id="path665"
+       inkscape:label="right hand"
+       sodipodi:nodetypes="cccc" />
     <path
-       style="display:inline;fill:url(#body);stroke:url(#face);stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 175,690.0002 c 130,-30 130,-35 155,-45 25,-10 25,-30 0,-30 25,-10 25,-30 0,-30 25,-10 25,-30 0,-30 -25,0 -25,5 -135,25"
+       style="display:inline;fill:url(#body);stroke:url(#face);stroke-width:12.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 175,690.0002 c 110.89743,-6.28205 115,-10 140,-20 68.74127,-32.23964 35.24838,-90.27689 0,-90 -25,0 -40,5 -120,0"
        id="left_hand"
-       inkscape:label="left hand" />
+       inkscape:label="left hand"
+       sodipodi:nodetypes="cccc" />
   </g>
   <path
      class="st2"
-     d="m 448.00754,728.2278 c -22.82869,-8.30896 -34.68783,-35.82879 -47.15572,-67.13995 -17.1975,-40.17212 -36.18616,-86.35081 -83.93907,-110.87097 -84.66513,-43.30976 -156.24206,-5.10591 -156.52889,-4.31786 -2.3297,0.93694 -5.2506,0.76625 -7.31103,-1.76856 -1.18241,-2.21524 -1.19996,-4.89895 1.41657,-6.62394 1.16485,-0.46847 19.78492,-10.64769 49.53251,-15.88438 27.41789,-4.29975 70.33587,-4.74281 118.08879,19.77735 50.97819,26.58651 71.74046,76.08806 88.93796,116.26018 13.93712,32.73836 23.71827,55.03966 41.2788,61.43117 3.51211,1.2783 7.31104,1.76856 12.27482,1.79034 4.96378,0.0218 9.62319,-1.85208 12.22216,-6.26078 11.00466,-13.84344 6.69073,-48.43389 1.31726,-66.4536 -0.89558,-3.00328 0.84292,-5.04784 4.05065,-5.66521 3.20773,-0.61736 5.55499,1.12941 6.45056,4.1327 5.37348,18.01971 11.17419,56.72106 -2.42945,74.9732 -5.2155,6.13367 -11.32658,9.26407 -20.37612,9.54007 -7.00666,0.1271 -12.56164,-1.00231 -17.8298,-2.91976 z"
+     d="m 457.81147,764.55235 c -23.92471,-4.21857 -40.38245,-29.26099 -58.09805,-57.93144 -23.91205,-36.5755 -50.63107,-78.75529 -101.91639,-94.61073 -90.89954,-27.94984 -154.75502,22.10281 -154.90065,22.9287 -2.13161,1.32725 -5.03778,1.66637 -7.50707,-0.47215 -1.54912,-1.97626 -2.03242,-4.61615 0.24482,-6.76929 1.0658,-0.66362 17.63539,-13.92154 46.0217,-24.24429 26.25471,-8.99549 68.44373,-16.88445 119.72906,-1.02901 54.82041,17.33033 83.86311,62.47451 107.77516,99.05001 19.41034,29.82083 32.91547,50.08485 51.31909,53.3299 3.68073,0.64901 7.50708,0.47215 12.39923,-0.36836 4.89215,-0.84048 9.15538,-3.49499 10.9493,-8.28802 8.43359,-15.54406 -1.82137,-48.8599 -10.24229,-65.67276 -1.40349,-2.80214 -0.0464,-5.11752 3.00535,-6.28253 3.0518,-1.165 5.66672,0.14764 7.0702,2.94979 8.42094,16.81285 20.85394,53.91896 10.62642,74.25606 -4.07116,6.94614 -9.54582,11.09016 -18.40995,12.93341 -6.87814,1.34186 -12.54485,1.19422 -18.06593,0.22071 z"
      id="genchu_tail"
      style="display:inline;fill:#54487a;stroke-width:8.85204"
      inkscape:label="genchu tail" />
